@@ -1,0 +1,69 @@
+#controls{
+    position:fixed;
+    bottom: -120px;
+    left:0px;
+    right:0px;
+    margin:auto;
+    width:100px;
+    z-index: 99999;
+    
+}
+
+#menu{
+    display:block;
+}
+
+.buttons{
+    width:100%;
+}
+
+#desInput{
+    height: 34px;;
+}
+
+#display{
+    left:0px;
+    top:0px;
+    position: absolute;
+    width:100vw;
+}
+
+#background{
+    height:300px;
+    width:100%;
+    position:relative;
+}
+
+#title{
+    position:absolute;
+    left:10%;
+    top:10%;
+    font-size: large;
+    border-bottom: 1px solid grey;
+}
+
+#description{
+    position:absolute;
+    left:10%;
+    top:20%;
+}
+
+.appendedBg{
+    height:300px;
+    width:100%;
+    position:relative;
+}
+
+.newTitle{
+    position:absolute;
+    left:10%;
+    top:10%;
+    font-size: large;
+    border-bottom: 1px solid grey;
+}
+
+.newDesc{
+    position:absolute;
+    left:10%;
+    top:20%;
+}
